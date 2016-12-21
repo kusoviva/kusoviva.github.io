@@ -1,0 +1,13 @@
+.thumbnail img{
+    max-width: 100%;
+}
+
+.container{
+    width: auto
+   }
+
+.btn{
+    display: block;
+    width: 100px;
+    height: 100px;
+}
